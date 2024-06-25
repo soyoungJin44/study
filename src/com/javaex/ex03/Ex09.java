@@ -29,7 +29,7 @@ public class Ex09 {
 			System.out.println("상담원에게 문의하세요.");
 		}
 			
-		
+
 		sc.close();
 		
 		}
