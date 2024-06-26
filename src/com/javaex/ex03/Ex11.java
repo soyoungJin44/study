@@ -32,6 +32,7 @@ public class Ex11 {
 		    	break;
 		}
 		System.out.println(answer);
+		sc.close();
 		
 	}
 

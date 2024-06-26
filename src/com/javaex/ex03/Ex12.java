@@ -52,7 +52,7 @@ public class Ex12 {
 			break;
 		}
 		System.out.println(day + "일 입니다.");
-				
+	    sc.close();
 	}
 
 }
