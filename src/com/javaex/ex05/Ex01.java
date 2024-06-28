@@ -5,7 +5,7 @@ public class Ex01 {
 	public static void main(String[] args) {
 		/*
 		 
-		 // 랜덤으로 숫자 6개 출력
+		 // 랜덤으로 숫자 6개 출력 <<가로로
 		for(int i = 1; i <= 6; i++) {
 			System.out.print((int)(Math.random() * 45)+1);
 			System.out.print("	");
