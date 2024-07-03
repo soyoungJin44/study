@@ -25,10 +25,9 @@ public class Ex06 {
 			System.out.println("i= " + arrA[i]);
 		}
 		System.out.println("arrB[]");
-		for (int i = 0; i < arrB.length; i++){
+		for (int i = 0; i < arrB.length; i++) {
 			System.out.println("i= " + arrB[i]);
 		}
-		
 
 	}
 
